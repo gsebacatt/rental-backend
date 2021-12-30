@@ -19,9 +19,8 @@ $ npm install
 
 ```bash
 $ npm run start
-
-The backend is already connected to mongoDB managed instance
 ```
+The backend is already connected to a mongoDB managed instance
 
 API endpoints listening on localhost:4000/rental
 
